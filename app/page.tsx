@@ -23,9 +23,10 @@ import Transition from '@/Components/Transition';
 
 export default function Home() {
   return (
+
     <main>
       
-    
+
        <Hero />
         <About />
         <Skills />

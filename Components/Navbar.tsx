@@ -40,10 +40,10 @@ const Navbar = () => {
           <a href='#Skills'>
             <li className=' text-1xl font-bold uppercase hover:border-b border-red-500'>Skills</li>
           </a>
-          <a href="#Projects" onClick={handleClick}>
+          <a href="#Projects">
             <li className='text-1xl font-bold uppercase hover:border-b border-red-500'>Projects</li>
           </a>
-          <a href="#Contact" onClick={handleClick}>
+          <a href="#Contact">
             <li className='text-1xl font-bold uppercase hover:border-b border-red-500'>Contact</li>
           </a>
           </div>

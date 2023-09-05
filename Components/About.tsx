@@ -25,7 +25,7 @@ const About = () => {
           A aspiring full-stack developer from the valleys of Lahore, <span className=' text-green-700'>Pakistan</span>. A true professional 😉that has a penchant for making light out of irredeemable situations. A creative problem solver at heart with an eye for desgin and all things <span className=' bg-gradient-to-r from-green-600 to bg-red-500 inline-block text-transparent bg-clip-text'> AESTHETIC</span> 
           </p>
           <p className='py-2 text-slate-600 font-bold'>
-          You can usually find me on the weekends watching re-runs of Suits, or creating webistes that are seamless yet immersive experiences. As said by Dieter Rams " Good Design Is Honest" but I'd  preclude that quote with a preface: "Not All Honest Design Is Good". So, why not give me a shot, you'll enjoy having me as an employee.  PSA: I wish I was as handsome as the guy in the image
+          Lorem ipsum dolor sit amet. Qui maxime quibusdam aut quisquam totam eos voluptas voluptatem cum nostrum aliquid ex dolore harum et voluptatem odio. Qui doloremque aliquam eos quasi magni 33 quis modi in accusamus odit ea fugiat veniam. Cum quidem dicta et voluptates velit et animi quos.
           </p>
 
          
