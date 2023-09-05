@@ -10,7 +10,7 @@ import {PiCatDuotone} from 'react-icons/pi';
 import { useEffect, useState } from 'react';
 import {MdOutlineContactPage} from 'react-icons/md';
 import { motion } from 'framer-motion';
-import useMousePosition from './utils/useMousePosition'
+
 
 
 
