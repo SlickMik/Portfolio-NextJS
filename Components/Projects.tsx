@@ -32,7 +32,7 @@ const Projects = () => {
     <Image className='rounded-xl group-hover:blur-3xl ease-in-out duration-300' src={portfolio_1} alt='/' /> 
     <div className='hidden group-hover:block absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]'>
         <p className='text-2xl font-extrabold text-red-500 tracking-wider text-center uppercase'>Project 1</p>
-        <p className='pb-4 pt-2 text-black text-center'>Sample Product Description Blah Blah Blah Blah Blah Blah</p>
+        <p className='pb-4 pt-2 text-black text-center'>Sample Product Description Blah Blah Blah Blah Blah Blah Blah Blah</p>
         <button type="button" className="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">View Demo</button>
       
     </div>
