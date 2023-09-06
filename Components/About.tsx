@@ -25,7 +25,7 @@ const About = () => {
           A aspiring full-stack developer from the valleys of Lahore, <span className=' text-green-700'>Pakistan</span>. A true professional 😉that has a penchant for making light out of irredeemable situations. A creative problem solver at heart with an eye for desgin and all things <span className=' bg-gradient-to-r from-green-600 to bg-red-500 inline-block text-transparent bg-clip-text'> AESTHETIC</span> 
           </p>
           <p className='py-2 text-slate-600 font-bold'>
-          Lorem ipsum dolor sit amet. Qui maxime quibusdam aut quisquam totam eos voluptas voluptatem cum nostrum aliquid ex dolore harum et voluptatem odio. Qui doloremque aliquam eos quasi magni 33 quis modi in accusamus odit ea fugiat veniam. Cum quidem dicta et voluptates velit et animi quos.
+          Lorem ipsum dolor sit amet. Qui maxime quibusdam aut quisquam totam eos voluptas voluptatem cum nostrum aliquigd ex dolore harum et voluptatem odio. Qui doloremque aliquam eos quasi magni 33 quis modi in accusamus odit ea fugiat veniam. Cum quidem dicta et voluptates velit et animi quos.
           </p>
 
          
