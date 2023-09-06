@@ -13,7 +13,7 @@ const About = () => {
       <div className='flex justify-center h-full'>
 
 
-    <div className='max-w-[1240px] sm:flex grid grid-cols-2 '>
+    <div className='max-w-[1240px] sm:flex sm:flex-col lg:grid lg:grid-cols-2 '>
         <div className=' content-center sm:col-auto items-center flex text-left'>
 
 <div className=''>
@@ -34,7 +34,7 @@ const About = () => {
           </a>
        </div>
         </div>
-        <div className='lg:w-full sm:w-[40px] m-auto shadow-xl shadow-gray-400 rounded-full flex items-center justify-center hover:scale-105 ease-in duration-300 hover:-rotate-12 overflow-hidden bg-gradient-to-r from-slate-800 to-red-500'>
+        <div className='lg:w-[400px] sm:w-[40px] m-auto shadow-xl shadow-gray-400 rounded-full flex items-center justify-center hover:scale-105 ease-in duration-300 hover:-rotate-12 overflow-hidden bg-gradient-to-r from-slate-800 to-red-500'>
         <Image
          src="/Guy.png" 
          width={1000}
