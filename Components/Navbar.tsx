@@ -3,7 +3,6 @@ import Link from 'next/link'
 import React from 'react'
 import {PiCatDuotone} from 'react-icons/pi'
 import Transition from './Transition'
-import { Hero } from '.'
 import { usePathname } from "next/navigation"
 import Contact from './Contact'
 import NextLink from 'next/link';
