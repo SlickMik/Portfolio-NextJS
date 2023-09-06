@@ -1,5 +1,5 @@
 
-import './globals.css'
+import '../styles/globals.css'
 import type { Metadata } from 'next'
 import Navbar from '@/Components/Navbar'
 import Top_Finder from '@/Components/Top_Finder'
