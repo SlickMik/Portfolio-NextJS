@@ -59,7 +59,7 @@ const Contact = () => {
                         </div>
 
                         <div className="flex flex-col mt-2">
-                            <label className="hidden">Number</label>
+                            <label className="hidden">Number 1</label>
                             <input type="tel" name="tel" id="tel" placeholder="Telephone Number" className="w-100 mt-2 py-3 px-3 rounded-lg bg-white text-gray-800 font-semibold border border-red-500 focus:outline-none" />
                         </div>
 
