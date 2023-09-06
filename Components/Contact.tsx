@@ -64,7 +64,7 @@ const Contact = () => {
                         </div>
 
                         <button type="submit" className="md:w-32  bg-red-500 text-white font-bold py-3 px-6 rounded-lg mt-3 hover:bg-green-500 transition ease-in-out duration-300">
-                            Submit
+                            Submitt
                         </button>
                     </form>
 
